@@ -1,0 +1,3 @@
+sqlitebiter
+sqlite3
+pandas
